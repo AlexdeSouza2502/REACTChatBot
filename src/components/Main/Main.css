@@ -11,7 +11,7 @@
     justify-content: space-between;
     font-size: 22px;
     padding: 20px;
-    color: #585858;
+    color: #56545c;
 }
 
 .main .nav img{
@@ -36,7 +36,7 @@
 
 
 .main .greet span{
-    background: -webkit-linear-gradient(16deg, #179b5e, #dce8c6);
+    background: -webkit-linear-gradient(16deg, #2b85ec, #dce8c6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
